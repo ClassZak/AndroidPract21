@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidPract21</string>
+    <string name="start">Запустить секундомер</string>
+    <string name="stop">Остановить секундомер</string>
 </resources>
